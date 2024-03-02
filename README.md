@@ -24,13 +24,12 @@ This project implements a system for automating resume processing, aiming to inc
 **Getting Started:**
 
 1. **Prerequisites:**
-    * Python 3.x
-    * Necessary libraries (install using `pip install <library_name>`)
+    * Python 3
+    * Necessary libraries
         * transformers
         * datasets
         * pandas
-        * scikit-learn (optional)
-    * Microsoft PowerPoint or a compatible presentation software to view the presentation.
+        * scikit-learn
 
 2. **Run the project:**
     * Clone the repository.
